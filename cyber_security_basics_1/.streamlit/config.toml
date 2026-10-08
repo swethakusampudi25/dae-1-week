@@ -1,0 +1,11 @@
+[theme]
+base = "dark"
+primaryColor = "#6C63FF"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#1A1F2E"
+textColor = "#E6E9F0"
+borderColor = "#2D3448"
+baseRadius = "large"
+redColor = "#FF4B5C"
+orangeColor = "#FFA94D"
+greenColor = "#2ECC71"

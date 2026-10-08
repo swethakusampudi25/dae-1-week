@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+joblib
+streamlit
+#python train.py --email data/Phishing_Email.csv --url data/malicious_phish.csv
+#python scanner.py --scan "C:\Users\Swetha K\Downloads\portfolio\CyberSecurityProject\DownloadTest"  
